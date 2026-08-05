@@ -2,7 +2,7 @@ name: Daily EdgeTunnel obfuscation
 
 on:
   schedule:
-    - cron: '0 22 * * *'
+    - cron: '11 22 * * *'
   workflow_dispatch:
 
 permissions:
